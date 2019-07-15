@@ -22,7 +22,7 @@ You will have to forgive the vga output, all hand drawn using several hundred 'i
 
 The quickest way to test is after load, press the rst key. Press 'm' key.
 Enter '0015' and press 'm' again.
-The address 0015 is the 3rd character from the left. The value shouls read 80.
+The address 0015 is the 3rd character from the right. The value shouls read 80.
 type any hex character to change the value and the character will change. 
 
 
