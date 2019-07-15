@@ -416,7 +416,7 @@ video_mixer #(640, 0) mixer
 
 	.hq2x(scale == 1),
 	.scanlines(0),
-	.scandoubler(scale || forced_scandoubler),
+	.scandoubler(scale),
 
 	.R(r),
 	.G(g),
